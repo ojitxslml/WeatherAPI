@@ -1,8 +1,17 @@
-# React + Vite
+# WeatherAPI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto realizado con React y llamadas a API.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Llamadas a API
+- Tailwind
+
+## Captura de Pantalla
+
+![Captura de Pantalla del Proyecto](./preview.png)
+
+## Licencia
+Parte del proyecto fue realizado siguiendo el tutorial de Yash Patel, pero mejorado y con algunos cambios.
+[Tutorial de Yash Patel](https://www.youtube.com/@yashpatel1O1)
