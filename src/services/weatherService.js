@@ -7,7 +7,7 @@ const getWeatherData = (infoType, searchParams) => {
 };
 
 const getCitySuggestions = (query) => {
-  const url = new URL(`http://api.openweathermap.org/geo/1.0/direct`);
+  const url = new URL(`https://api.openweathermap.org/geo/1.0/direct`);
   url.search = new URLSearchParams({ q: query, limit: 5, appid: import.meta.env.VITE_API_KEY});
   return fetch(url).then((res) => res.json());
 };
