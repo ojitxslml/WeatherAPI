@@ -8,9 +8,11 @@ Proyecto realizado con React y llamadas a API.
 - Llamadas a API
 - Tailwind
 
-## Captura de Pantalla
+## Capturas de Pantalla
 
 ![Captura de Pantalla del Proyecto](./preview.png)
+
+![Captura de Pantalla del Proyecto](./preview2.png)
 
 ## Licencia
 Parte del proyecto fue realizado siguiendo el tutorial de Yash Patel, pero mejorado y con algunos cambios.
